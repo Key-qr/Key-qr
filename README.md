@@ -5,11 +5,9 @@
    Actualmente estoy aprendiendo modelado avanzado de datos, arquitectura de data mesh y las últimas tendencias en tecnologías de big data.
    Busco colaborar en proyectos de soluciones de datos escalables, pipelines ETL y gobernanza de datos empresariales.
    
-   Cómo contactarme: quinelindsay@gmail.com 
-   
-   Pronombres: Key
-   
-   Dato curioso: Me encanta resolver desafíos complejos de datos y optimizar sistemas de datos a gran escala.
+   - Cómo contactarme: quinelindsay@gmail.com 
+   - Pronombres: Key
+   - Dato curioso: Me encanta resolver desafíos complejos de datos y optimizar sistemas de datos a gran escala.
 
 <!---
 Key-qr/Key-qr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

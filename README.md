@@ -9,12 +9,11 @@
 <a href="mailto:quinelindsay@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/keysi-lindsay-qui%C3%B1e-51729a307/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </h3>
- 
-## About me
+
+ ## About me
 
  I'm Keysi Quiñe, a young student of Business Data Architecture. I'm passionate about the world of data and programming, as it allows me to develop efficient and creative solutions.
 
-----
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"

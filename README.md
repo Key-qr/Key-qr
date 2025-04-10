@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/keysi-lindsay-qui%C3%B1e-51729a307/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </h3>
 
- ## About me
+ ## About me:
 
  I'm Keysi Quiñe, a young student of Business Data Architecture. I'm passionate about the world of data and programming, as it allows me to develop efficient and creative solutions.
 
